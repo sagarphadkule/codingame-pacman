@@ -1,5 +1,5 @@
 # Codingame Pacman Spring Challenge 2020
-My code for the weeklong Codingame Spring 2020 Challenge: https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2020 
+My code for the weeklong Codingame Spring 2020 Challenge: https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2020   
 Written in C++. Ranked in Gold League and #250 overall by final day.
 
 # Game Description From Codingame:
