@@ -12,7 +12,7 @@ KEYWORDS:
 Pathfinding, Multi-Agent, Distances, 2D Array
 
 # My Approach
-Since I didn't use git during the challenge, I ended up saving versions of my code from time to time for each league. You can see the evolution of the code in it. *`gold_curr.cpp` is the final version.*   
+Since I didn't use git during the challenge, I ended up saving versions of my code from time to time for each league. You can see the evolution of the code in it. **`gold_curr.cpp` is the final version.**   
 Note that the entire code is in a single file (ugly) because one file is all that codingame allows.  
 Also included is a rough Document that I used while coding for braindumps.
 
