@@ -11,6 +11,8 @@ Control a team of pacs and eat more pellets than your opponent. Beware, an enemy
 KEYWORDS:
 Pathfinding, Multi-Agent, Distances, 2D Array
 
+![Game](https://github.com/sagarphadkule/codingame-pacman/blob/master/SomeGame.jpg)
+
 # My Approach
 Since I didn't use git during the challenge, I ended up saving versions of my code from time to time for each league. You can see the evolution of the code in it. **`gold_curr.cpp` is the final version.**   
 Note that the entire code is in a single file (ugly) because one file is all that codingame allows.  
