@@ -1,6 +1,6 @@
 # Codingame Pacman Spring Challenge 2020
 My code for the weeklong Codingame Spring 2020 Challenge: https://www.codingame.com/multiplayer/bot-programming/spring-challenge-2020   
-Written in C++. Ranked in Gold League and #250 overall by final day.
+Written in C++. Ranked in Gold League. [The leagues were: Wood 2, Wood 1, Bronze, Silver, Gold, Legendary].
 
 # Game Description From Codingame:
 This game is based on Pac-man, with a unique rock-paper-scissors twist.
